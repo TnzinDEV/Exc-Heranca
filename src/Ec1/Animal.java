@@ -1,3 +1,5 @@
+package Ec1;
+
 public class Animal {
     //constructor
     protected String nome;

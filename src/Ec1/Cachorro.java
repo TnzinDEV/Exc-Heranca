@@ -1,3 +1,5 @@
+package Ec1;
+
 public class Cachorro extends Animal{
     //constructor
     public Cachorro(String nome) {

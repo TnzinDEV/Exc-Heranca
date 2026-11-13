@@ -1,12 +1,13 @@
-public class Vaca extends Animal{
+package Ec1;
+
+public class gato extends Animal{
     //constructor
-    public Vaca(String nome) {
+    public gato(String nome) {
         this.nome = nome;
     }
 
     @Override
     public String emitirsom() {
-        return "Muu!";
+        return "Miau!";
     }
-
 }
